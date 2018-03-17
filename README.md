@@ -1,2 +1,2 @@
-よしこです、よろしくおねがいします。  
-http://yoshiko-pg.github.io/
+Portfolioの参考
+@yodhiko-pg(http://yoshiko-pg.github.io/)
